@@ -1,0 +1,1 @@
+Some mini react applications build with Typescript
